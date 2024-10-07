@@ -20,12 +20,9 @@ I'm always learning and exploring new technologies.
 
  📊 Coding Profiles
 - [HackerRank](https://www.hackerrank.com/@teenaraghav3017)
-- 
 - [LeetCode](https://leetcode.com/Teena_raghav)
 
-[![HackerRank](https://img.shields.io/badge/-HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/Teena Raghav
-United States)
-
+[![HackerRank](https://img.shields.io/badge/-HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/@teenaraghav3017)
 [![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/Teena_raghav)
 
 
