@@ -33,6 +33,9 @@ I'm always learning and exploring new technologies.
 ![Teena's GitHub Stats](https://github-readme-stats.vercel.app/api?username=TeenaRaghav&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TeenaRaghav&layout=compact)
 
+
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
 ![Appium](https://img.shields.io/badge/Appium-33b2e5?style=for-the-badge&logo=appium&logoColor=white)
+![Cypress](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white)
+![Rest Assured](https://img.shields.io/badge/Rest%20Assured-4BAF4F?style=for-the-badge&logo=java&logoColor=white)
