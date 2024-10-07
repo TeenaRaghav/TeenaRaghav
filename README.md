@@ -6,13 +6,18 @@ I'm always learning and exploring new technologies.
 
 - 🌱 I’m currently learning Cypress
 - 🌱 I’m currently learning JavaScript
+
+
 ![Teena's GitHub Stats](https://github-readme-stats.vercel.app/api?username=TeenaRaghav&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TeenaRaghav&layout=compact)
-![Automation](file:///C:/Users/teena/Downloads/undraw_female_avatar_efig.svg)
+
+
 
 🌱 What I’m learning
 - Exploring AWS for cloud testing environments
 
+
+ 
  🔭 What I'm currently working on
 - Developing a hybrid automation framework using Selenium, Java, and TestNG
 - Learning Docker for containerized testing environments
