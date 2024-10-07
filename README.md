@@ -34,8 +34,15 @@ I'm always learning and exploring new technologies.
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TeenaRaghav&layout=compact)
 
 
+🛠 Languages and Tools
+
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
 ![Appium](https://img.shields.io/badge/Appium-33b2e5?style=for-the-badge&logo=appium&logoColor=white)
-![Cypress](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white)
+![TestNG](https://img.shields.io/badge/TestNG-FFB100?style=for-the-badge&logo=TestNG&logoColor=white)
+![Cucumber](https://img.shields.io/badge/Cucumber-23D96C?style=for-the-badge&logo=cucumber&logoColor=white)
 ![Rest Assured](https://img.shields.io/badge/Rest%20Assured-4BAF4F?style=for-the-badge&logo=java&logoColor=white)
+![Cypress](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
