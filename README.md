@@ -18,6 +18,18 @@ I'm always learning and exploring new technologies.
 - Learning Docker for containerized testing environments
 
 
+- 📫 How to reach me **teenaraghav3017@gmail.com**
+
+ 📊 Coding Profiles
+- [HackerRank](https://www.hackerrank.com/Teena Raghav
+United States)
+- [LeetCode](https://leetcode.com/Teena_raghav
+)
+
+[![HackerRank](https://img.shields.io/badge/-HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/Teena Raghav
+United States)
+[![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/Teena_raghav)
+
 
 ![Teena's GitHub Stats](https://github-readme-stats.vercel.app/api?username=TeenaRaghav&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TeenaRaghav&layout=compact)
