@@ -1,26 +1,26 @@
 ## Hi there 👋,I'm Teena Raghav
-A passionate Automation Test Engineer
+I am a Automation enthusiast and self-learner, skilled in building robust scripts and frameworks using various tools and technologies.
+
+
+
+<img align="right" alt="Coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif"/>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=TeenaRaghav&label=Profile%20views&color=0e75b6&style=flat" alt="TeenaRaghav" /> </p>
+
 
 I specialize in building automation frameworks, with expertise in Selenium, Java, Appium, and API testing.
 I'm always learning and exploring new technologies.
 
-- 🌱 I’m currently learning Cypress
-- 🌱 I’m currently learning JavaScript
+ 🔭 What I'm currently working on
+- Exploring AWS for cloud testing environments
+- Cypress
+- Javscript
+- Developing a hybrid automation framework using Selenium, Java, and TestNG
+- Learning Docker for containerized testing environments
+
 
 
 ![Teena's GitHub Stats](https://github-readme-stats.vercel.app/api?username=TeenaRaghav&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TeenaRaghav&layout=compact)
-
-
-
-🌱 What I’m learning
-- Exploring AWS for cloud testing environments
-
-
- 
- 🔭 What I'm currently working on
-- Developing a hybrid automation framework using Selenium, Java, and TestNG
-- Learning Docker for containerized testing environments
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
