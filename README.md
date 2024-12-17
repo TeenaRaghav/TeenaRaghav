@@ -38,7 +38,6 @@ I'm always learning and exploring new technologies.
 
 🛠 Languages and Tools
 
-![Python](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
 ![Appium](https://img.shields.io/badge/Appium-33b2e5?style=for-the-badge&logo=appium&logoColor=white)
