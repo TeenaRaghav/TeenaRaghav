@@ -1,6 +1,6 @@
 ## Hi there 👋,I'm Teena Raghav
-I am a Automation enthusiast and self-learner, skilled in building robust scripts and frameworks using various tools and technologies.
-I specialize in building automation frameworks, with expertise in Selenium, Java, Appium, and API testing.
+I am a Technology enthusiast, skilled in developing programs in Python, Java, writing sql queries to fetch and perform analysis on data in relational databases, and perform DML and DDL operations; intermediate in writing shell scripts and unix commands. Also I have good understanding of software applications and systems, CI/CD and other devops operations.
+I have hands on on building automation frameworks, with very good knowledge in Selenium, Java, Appium, and API testing.
 I'm always learning and exploring new technologies.
 
 <img align="right" alt="Coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif"/>
@@ -8,6 +8,8 @@ I'm always learning and exploring new technologies.
 
  
 🔭 What I'm currently working on
+- Gaining further expertise on Python programming
+- Improving upon advance database concepts and sql for data analysis
 - Exploring AWS for cloud testing environments
 - Cypress
 - Javscript
