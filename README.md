@@ -1,5 +1,5 @@
 ## Hi there 👋,I'm Teena Raghav
-I am a Automation enthusiast and self-learner, skilled in building robust scripts and frameworks using various tools and technologies.
+I am a Passionate Automation Test Engineer, skilled in building robust scripts and frameworks using various tools and technologies.
 I specialize in building automation frameworks, with expertise in Selenium, Java, Appium, and API testing.
 I'm always learning and exploring new technologies.
 
